@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tour App</string>
+    <string name="tab_text_1">Best Food!</string>
+    <string name="tab_text_2">Attractions</string>
+    <string name="tab_text_3">Tours</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="tours">
+        <item>Atlanta’s Southern Food Tour</item>
+        <item>Walking Dead Big Zombie Tour 1</item>
+        <item>CNN Atlanta Studio Tour</item>
+        <item>Atlanta city tour by electric car</item>
+        <item>Atltanta Historical Homes Tour</item>
+    </string-array>
+
+</resources>
